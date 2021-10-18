@@ -11,6 +11,8 @@ namespace WhiteboardChallenges
         static void Main(string[] args)
         {
             FizzBuzz fizzBuzz = new FizzBuzz();
+            fizzBuzz.runFizzBuzz();
+            Console.ReadLine();
         }
     }
 }
