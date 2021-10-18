@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteboardChallenges", "WhiteboardChallenges\WhiteboardChallenges.csproj", "{F938A30A-00C1-4594-BF9C-95CA37732AE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F938A30A-00C1-4594-BF9C-95CA37732AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F938A30A-00C1-4594-BF9C-95CA37732AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F938A30A-00C1-4594-BF9C-95CA37732AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F938A30A-00C1-4594-BF9C-95CA37732AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B798B02-FB52-4A2F-BECA-F919555989A3}
+	EndGlobalSection
+EndGlobal

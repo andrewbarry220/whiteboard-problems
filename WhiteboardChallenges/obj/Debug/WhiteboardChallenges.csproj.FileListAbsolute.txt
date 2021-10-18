@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\WhiteboardChallenges\WhiteboardChallenges\bin\Debug\WhiteboardChallenges.exe.config
+C:\Users\andre\source\repos\WhiteboardChallenges\WhiteboardChallenges\bin\Debug\WhiteboardChallenges.exe
+C:\Users\andre\source\repos\WhiteboardChallenges\WhiteboardChallenges\bin\Debug\WhiteboardChallenges.pdb
+C:\Users\andre\source\repos\WhiteboardChallenges\WhiteboardChallenges\obj\Debug\WhiteboardChallenges.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\WhiteboardChallenges\WhiteboardChallenges\obj\Debug\WhiteboardChallenges.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\WhiteboardChallenges\WhiteboardChallenges\obj\Debug\WhiteboardChallenges.exe
+C:\Users\andre\source\repos\WhiteboardChallenges\WhiteboardChallenges\obj\Debug\WhiteboardChallenges.pdb
