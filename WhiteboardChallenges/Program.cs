@@ -13,6 +13,10 @@ namespace WhiteboardChallenges
             FizzBuzz fizzBuzz = new FizzBuzz();
             fizzBuzz.runFizzBuzz();
             Console.ReadLine();
+            Console.Clear();
+            ReverseString reverseString = new ReverseString();
+            reverseString.inputReverse();
+            Console.ReadLine();
         }
     }
 }
